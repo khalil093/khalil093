@@ -1,0 +1,44 @@
+body {
+    width: 50em;
+    border: 1px solid blue;
+    padding: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Trebuchet MS','Lucida Sans', Arial, sans-serif
+}
+h1{
+    color: blue;
+    align-content: center
+}
+h2{ 
+    color: brown;
+
+}
+.lenno {
+    color: blue;
+    font-style: italic;
+}
+lenno strong{
+    color: red;
+}
+ul il {
+    color: green;
+}
+em{
+    color: #00f;
+}
+strong{
+    color: red;
+}
+.ul-li{
+    color: green;
+}
+.em1{
+    color:red;
+}
+.em2{
+    color: rgba(255, 115, 0, 0.623);
+}
+.li-ul{
+    color: orangered;
+}
